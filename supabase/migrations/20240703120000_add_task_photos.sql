@@ -1,0 +1,3 @@
+ALTER TABLE tasks
+ADD COLUMN before_photo VARCHAR(255) NULL,
+ADD COLUMN after_photo VARCHAR(255) NULL;
